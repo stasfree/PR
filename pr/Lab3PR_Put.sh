@@ -1,0 +1,1 @@
+curl -X PUT -d "name=valera2&email=valera@yahoo.com" http://localhost:8080/user/2
